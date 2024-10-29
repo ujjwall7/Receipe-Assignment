@@ -1,0 +1,34 @@
+design and create an API collection using Django Rest Framework 
+to fulfil the following requirements for a 
+
+recipe management system
+
+There will be two types of users -> 
+
+creator and viewer
+
+Creator should be able to create, list, modify, and delete recipes
+
+Viewer should be able to view list and detail of recipes and mark recipes as favourites. 
+A viewer should also be able to download the recipe card as a pdf.
+
+ 
+
+Each recipe should have a 
+title, 
+description, 
+ingredients, 
+instructions, 
+prep duration, 
+cook duration, 
+step by step pictures  
+thumbnail image.
+
+The list of ingredients for each recipe must include the name and picture of the items.
+
+Deliverables:
+
+Well documented code and API
+Readme file with documentation
+ 
+
